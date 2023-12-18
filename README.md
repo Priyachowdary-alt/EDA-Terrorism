@@ -1,0 +1,1 @@
+Exploratory Data Analysis using python on Global Terrorism Data.As a Security analyst i found the hot zone area and extracted some meaningful insights.In this task I have used Jupyter Notebook for Python Platform.
